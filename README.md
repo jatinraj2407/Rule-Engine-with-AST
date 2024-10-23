@@ -103,13 +103,15 @@ To run the application using Docker (with MongoDB for rule persistence):
 
 Build and run the containers:
 
-bash
-Copy code
 docker-compose up
+
 Access the API on http://localhost:5000
 
+
 The Docker setup includes:
+
 Flask API running in a web container.
+
 MongoDB for rule storage (if desired).
 
 ## Conclusion
