@@ -22,8 +22,8 @@ tests/: Contains unit tests for the rule engine.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourhandle/rule-engine-with-ast.git
-    cd rule-engine-with-ast
+    git clone [https://github.com/yourhandle/rule-engine-with-ast.git](https://github.com/jatinraj2407/Rule-Engine-with-AST)
+    cd Rule-Engine-with-AST
     ```
 
 2. **Install dependencies:**
