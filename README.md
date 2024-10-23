@@ -4,7 +4,8 @@
 
 The project implements a 3-tier rule engine that evaluates user eligibility based on dynamic rules. The rules are represented using an Abstract Syntax Tree (AST), allowing for flexible creation, modification, and evaluation.
 
-1. Code Structure
+Code Structure
+
 src/: Contains the core logic, including rule creation, evaluation, and AST management.
 
 app.py: The main Flask API for handling HTTP requests.
