@@ -95,7 +95,6 @@ tests/: Contains unit tests for the rule engine.
 
 The project includes test cases for rule creation, combination, and evaluation. To run the tests, use the following command:
 
-```bash
 python -m unittest src/tests.py
 
 ## Docker Setup
