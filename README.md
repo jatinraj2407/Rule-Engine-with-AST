@@ -6,10 +6,15 @@ The project implements a 3-tier rule engine that evaluates user eligibility base
 
 1. Code Structure
 src/: Contains the core logic, including rule creation, evaluation, and AST management.
+
 app.py: The main Flask API for handling HTTP requests.
+
 rule_engine.py: Contains logic for AST generation, rule evaluation, and combination.
+
 requirements.txt: Lists Python dependencies.
+
 docker-compose.yml: Defines Docker containers for Flask and MongoDB.
+
 tests/: Contains unit tests for the rule engine.
 
 ## Installation Instructions
